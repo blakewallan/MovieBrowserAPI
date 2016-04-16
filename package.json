@@ -1,0 +1,28 @@
+{
+  "name": "movie_browser_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakewallan/MovieBrowserAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakewallan/MovieBrowserAPI/issues"
+  },
+  "homepage": "https://github.com/blakewallan/MovieBrowserAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "pg": "^4.5.3",
+    "pg-hstore": "^2.3.2",
+    "request": "^2.71.0",
+    "sequelize": "^3.21.0"
+  }
+}

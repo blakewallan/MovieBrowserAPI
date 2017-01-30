@@ -1,7 +1,7 @@
 var request = require("request");
 
 var base = 'http://api.themoviedb.org/3/search/';
-var key = '&api_key=36d4951c7e63c2fae40cb79cbd457168';
+var key = '&api_key=';
 
 module.exports = {
 
